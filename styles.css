@@ -1,0 +1,103 @@
+
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+header {
+    background-color: #345;
+    color: green;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 0;
+    margin: 0;
+}
+
+header nav ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    padding: 10px;  
+}
+
+#señalamientos {
+   
+}
+
+#Cruce {
+    background-color: #D1F2EB  ; /* Color azul claro */
+     text-align: center;
+}
+
+#Carril {
+    background-color: #F5CBA7 ; /* Color amarillo claro */
+     text-align: center;
+}
+
+#Derrumbe {
+    background-color: #F9E79F ; /* Color naranja claro */
+ text-align: center;
+}
+
+#Curva {
+    background-color: #E6B0AA; /* Color naranja claro */
+ text-align: center;
+}
+
+#Cinturon {
+    background-color: #D7BDE2; /* Color verde claro */
+     text-align: center;
+}
+
+#Velocidad {
+    background-color: #76D7C4 ; /* Color naranja claro */
+     text-align: center;
+}
+
+#VueltaU {
+    background-color: #F4D03F; /* Color naranja claro */
+     text-align: center;
+}
+
+#Precaución {
+    background-color: #EC7063 ; /* Color naranja claro */
+     text-align: center;
+}
+
+#Rebasar {
+    background-color: #85C1E9 ; /* Color naranja claro */
+     text-align: center;
+}
+
+#Estacionarse {
+    background-color: #BB8FCE; /* Color naranja claro */
+     text-align: center;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5em 0;
+}
